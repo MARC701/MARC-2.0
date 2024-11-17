@@ -1,6 +1,6 @@
-# SUHAIL-X (V2)
+# 𝙼𝙰𝚁𝙲 (V2)
 <p align="center">
-<a href="https://github.com/GlobalTechInfo"><img title="Author" src="https://i.ibb.co/W5grzHJ/pk.jpg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/MARC701"><img title="Author" src="https://files.catbox.moe/qt6581.jpg?style=for-the-badge&logo=github"></a>
 
 
   <p align="center">
